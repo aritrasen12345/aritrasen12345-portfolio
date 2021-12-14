@@ -94,7 +94,7 @@ const Resume = (props) => {
                 "A React E-commerce Progressive Web App which has Authentication, Database, CRUD, Payment features.",
             subHeading:
                 "Technologies Used: Mongo DB, Epress Js, React Js, Node JS, Bootstrap",
-            source: "https://github.com/aritrasen12345/ecommerce-webapp",
+            source: "https://ekart-front.herokuapp.com/",
         },
         {
             title: "J.A.R.V.I.S ",
