@@ -10,7 +10,7 @@ export default function Profile() {
                 <div className="profile-details">
                     <div className="colz">
                         <div className="colz-icon">
-                            <a href='https://www.linkedin.com/in/aritra-sen-0b8464202/'>
+                            <a href='https://www.linkedin.com/in/aritrasen12345/'>
                                 <i className="fa fa-linkedin-square"></i>
                             </a>
                             <a href='https://github.com/aritrasen12345'>
