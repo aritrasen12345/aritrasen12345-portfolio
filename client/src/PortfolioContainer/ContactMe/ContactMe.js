@@ -88,7 +88,7 @@ export default function ContactMe(props) {
                     <a href='https://www.facebook.com/aritra.sen.5811'>
                         <i className="fa fa-facebook-square"></i>
                     </a>
-                    <a href='https://www.instagram.com/truthful_aritra/'>
+                    <a href='https://www.instagram.com/aritrasen12345/'>
                         <i className="fa fa-instagram"></i>
                     </a>
                     <a href='https://twitter.com/aritrasen12345'>
