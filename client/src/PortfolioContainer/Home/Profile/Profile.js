@@ -22,7 +22,7 @@ export default function Profile() {
               <a href="https://www.instagram.com/aritrasen12345/">
                 <i className="fa fa-instagram"></i>
               </a>
-              <a href="https://twitter.com/aritras81007757">
+              <a href="https://twitter.com/aritrasen12345">
                 <i className="fa fa-twitter"></i>
               </a>
             </div>
